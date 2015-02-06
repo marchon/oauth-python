@@ -42,7 +42,7 @@ Execute code in Python command line window:
 
 Python 2.7.9 (default, Dec 10 2014, 12:24:55) [MSC v.1500 32 bit (Intel)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
->>> clientkey = "qyprdcwoKwGLCUQ5omUVx7hYb0xJlr"
+\>>> clientkey = "qyprdcwoKwGLCUQ5omUVx7hYb0xJlr"
 >>> clientsecret = "********"
 >>>
 ... # OAuth end points for Intuit
