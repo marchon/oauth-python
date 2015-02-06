@@ -103,3 +103,4 @@ nte</FamilyName><FullyQualifiedName>Cool Cars</FullyQualifiedName><CompanyName>C
 lifiedName><DisplayName>NewCustomer102</DisplayName><PrintOnCheckName>NewCustomer102</PrintOnCheckName><Active>true</Active><DefaultTaxCodeRef>2</DefaultTaxCodeRef><Taxable>true</Taxable><Job>false</Job><BillWithParent>false</BillWithParent><Balance>0</Balance><BalanceWithJobs>0</BalanceWithJobs><PreferredDeliveryMethod>Print</PreferredDeliveryMethod></Customer></IntuitResponse>
 >>>
 
+
