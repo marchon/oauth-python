@@ -40,7 +40,6 @@ http://requests-oauthlib.readthedocs.org/en/latest/api.html
  
 
 Execute code in Python command line window:
-
  
 
 Python 2.7.9 (default, Dec 10 2014, 12:24:55) [MSC v.1500 32 bit (Intel)] on win32
