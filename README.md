@@ -40,7 +40,7 @@ Execute code in Python command line window:
 
 ![6](https://cloud.githubusercontent.com/assets/9324696/6089424/3d956f3a-ae17-11e4-8197-3aa571c7d999.png)
 
-
+![9](https://cloud.githubusercontent.com/assets/9324696/6089565/7d52e01a-ae19-11e4-9364-927a7fd8d642.png)
 
 Open authorize_url in a browser and authorize company access:
 
@@ -51,4 +51,5 @@ Copy the complete callback_uri as the redirect_response
 ![8](https://cloud.githubusercontent.com/assets/9324696/6089428/3f5c50cc-ae17-11e4-9932-8f0cf0f73e13.png)
 
 
+![10](https://cloud.githubusercontent.com/assets/9324696/6089568/7ef84e1e-ae19-11e4-8185-84bd731c1487.png)
 
