@@ -37,7 +37,7 @@ Specify grammar version and interpreter location (e.g. c:\Python27\python.exe)
 Open OAuthTest.py in Eclipse.  The following sample is based upon Requests-OAuthLib documentation using an OAuth 1.0 Session object implementation:
 http://requests-oauthlib.readthedocs.org/en/latest/api.html
 
-![5](https://cloud.githubusercontent.com/assets/9324696/6089423/3c75988c-ae17-11e4-9fcd-75bf4fcc98ff.png)
+![5](https://cloud.githubusercontent.com/assets/9324696/6089423/3c75988c-ae17-11e4-9fcd-75bf4fcc98ff.png) 
 
 Execute code in Python command line window:
 
