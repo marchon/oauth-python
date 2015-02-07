@@ -24,7 +24,7 @@ Download and install requests-2.5.1 here:
 https://pypi.python.org/pypi/requests/2.5.1
 
 Unzip and move oauthlib, requests-oauthlib and requests folder to your Python Lib folder:
-
+=
 ![1](https://cloud.githubusercontent.com/assets/9324696/6089413/1b679848-ae17-11e4-9b97-a22c27897ebd.png)
 
 Open Eclipse and create a new PyDev Project
