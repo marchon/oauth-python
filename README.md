@@ -1,3 +1,5 @@
+Welcome to the Intuit Developer's oauth-python.
+
 The oauth-python code snippet demonstrates the Oauth 1.0 flow using an OAuth1Session object from the requests-oauthlib open source library.  The OAuth1Session object is a layer implemented on top of a consumer and provider.  The sample code assumes that you are running on Windows platform with Eclipse installed.  The outcome of the sample reads an existing customer and creates a new customer using Intuit’s QuickBooks Online API v3 endpoints.
 
 Download and Install Python 2.7.9 from here:
