@@ -38,8 +38,6 @@ http://requests-oauthlib.readthedocs.org/en/latest/api.html
 
 Execute code in Python command line window:
 
-![6](https://cloud.githubusercontent.com/assets/9324696/6089424/3d956f3a-ae17-11e4-8197-3aa571c7d999.png)
-
 ![9](https://cloud.githubusercontent.com/assets/9324696/6089565/7d52e01a-ae19-11e4-9364-927a7fd8d642.png)
 
 ![7](https://cloud.githubusercontent.com/assets/9324696/6089426/3e69f26e-ae17-11e4-9472-81b58ad88169.png)
